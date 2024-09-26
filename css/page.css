@@ -1,0 +1,33 @@
+body {
+  font-family: Courier, monospace;
+  margin: 0;
+  padding: 0;
+  background-color: #21022c; /* Roxo escuro, quase preto */
+  color: #daa520; /* Amarelo dourado */
+}
+header {
+  background-color: #21022c; /* Fundo roxo escuro */
+  text-align: center;
+  padding: 20px 0;
+}
+.container {
+  padding: 20px;
+}
+h1,
+h2 {
+  color: #daa520; /* Cor dos títulos em dourado */
+  text-align: center; /* Centralizar os títulos */
+}
+a {
+  color: #1e90ff; /* Cor do link em azul */
+}
+.image-container {
+  text-align: center;
+  margin: auto;
+  boder-radius: 10px;
+}
+.image-container img {
+  max-width: 30%;
+  height: auto;
+  boder-radius: 10px;
+}
